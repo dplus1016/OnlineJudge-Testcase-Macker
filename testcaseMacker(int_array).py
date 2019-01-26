@@ -1,11 +1,14 @@
 '''
+
 [정수 배열-예시] 
-<in 파일>
+
+<in 파일---->
 5
 3 5 100 7 85
 
-<out 파일>
+<out 파일--->
 200
+
 '''
 import tkinter
 from math import*
