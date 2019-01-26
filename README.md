@@ -1,6 +1,6 @@
 # 사용법
 
-0. 기본적으로 파이썬이 설치되어 있어야 합니다.
+※ 기본적으로 파이썬이 설치되어 있어야 합니다.
 
 1. 문제에서 요구하는 입력 데이터의 확인
   ex) int_array, int_matrix, str_array, trees, graphs
