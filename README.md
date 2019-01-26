@@ -7,7 +7,7 @@
 
 2. 입력 데이터에 적합한 파일(testcaseMaker.py) 선택
 
-3. 예시 코드(exCode.py) 작성(exCode.py는 반드시 testcaseMaker.py와 같은 폴더에 있어야 함)
+3. 예시 코드(exCode.py) 작성 (exCode.py는 반드시 testcaseMaker.py와 같은 폴더에 있어야 함)
 
    - 정답 코드가 아래와 같을 때,
     ```
@@ -25,7 +25,7 @@
     ```    
    - 아래와 같이 함수 형태로 변경한 후에 저장(파일명 : exCode.py)
     ```
-    def F(n,s):
+    def F(n,s):  # 함수 선언부분은 변경 금지
     
         sum=0
         
