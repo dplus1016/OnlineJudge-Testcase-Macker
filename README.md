@@ -7,7 +7,7 @@
 
 2. 입력 데이터에 적합한 파일(testcaseMaker.py) 선택
 
-3. 예시 코드(exCode.py) 작성
+3. 예시 코드(exCode.py) 작성(exCode.py는 반드시 testcaseMaker.py와 같은 폴더에 있어야 함)
   ex) 정답 코드가 아래와 같을 때,
     
     n=int(input())
