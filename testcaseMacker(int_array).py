@@ -1,3 +1,9 @@
+'''
+[정수 배열] 
+(예)
+5
+3 5 100 7 87
+'''
 import tkinter
 from math import*
 import tkinter.ttk
