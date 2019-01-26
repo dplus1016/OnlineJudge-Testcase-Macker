@@ -12,19 +12,29 @@
     ex) 정답 코드가 아래와 같을 때,
     
     n=int(input())
+    
     sum=0
+    
     l=list(input().split())
+    
     for i in l:
+    
         sum+=int(i)
+        
     print(sum)
         
     아래와 같이 함수 형태로 변경한 후에 저장(파일명 : exCode.py)
     
     def F(n,s):
+    
         sum=0
+        
         l=list(s.split())
+        
         for i in l:
+        
             sum+=int(i)
+            
         return(sum)
     
 4. testcaseFiles에 있는 .in .out 파일을 적당한 곳에 저장(가급적 경로가 짧은 곳에 저장)
